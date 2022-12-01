@@ -1,5 +1,5 @@
 # All-Purpose-Spammer
-⭐Fun text spammer that can be used with any social media app!
+⭐Fun text spammer that can be used with any social media app/site!
 
 All you need to do is click on the text field in the social media app that you use, and this spammer will automatically send the text that you want for a specified number of iterations.
 
